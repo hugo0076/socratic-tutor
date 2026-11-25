@@ -1,0 +1,6 @@
+{
+  "name": "socratic-tutor",
+  "description": "Structured Socratic tutoring: diagnostic placement, a 0-5 skill map, spaced review, and a final assessment. Activates on 'teach me', 'tutor me', 'quiz me', 'drill me', 'help me master'.",
+  "version": "1.0.0",
+  "keywords": ["tutoring", "learning", "socratic", "education"]
+}

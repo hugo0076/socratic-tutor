@@ -1,0 +1,14 @@
+{
+  "name": "socratic-tutor-marketplace",
+  "description": "Home of the socratic-tutor plugin: structured Socratic tutoring for Claude Code.",
+  "owner": {
+    "name": "socratic-tutor"
+  },
+  "plugins": [
+    {
+      "name": "socratic-tutor",
+      "source": "./",
+      "description": "Structured Socratic tutoring: diagnostic placement, a 0-5 skill map, spaced review, and a final assessment."
+    }
+  ]
+}
